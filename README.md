@@ -4,3 +4,4 @@
 หากมีข้อสงสัย สามารถติดต่อทาง Discord @ryuthin94
 
 Code C++ https://github.com/PakinDioxide/TOI-zero cr. @PakinDioxide
+         https://github.com/pxsit/TOI-Zero cr. @pxsit
