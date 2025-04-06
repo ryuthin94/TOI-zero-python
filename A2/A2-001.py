@@ -1,4 +1,4 @@
-# This is the only generated code by Claude ai
+# Claude AI generates this code.
 
 def solve():
     # Read input
