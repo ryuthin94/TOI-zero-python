@@ -1,3 +1,5 @@
+# For 100 points, run with C++. You can find the code by clicking the link in README.md
+
 def largest_tent_size(holes):
     n = len(holes)
 
