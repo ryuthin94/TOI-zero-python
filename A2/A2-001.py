@@ -1,3 +1,5 @@
+# This is the only generated code by Claude ai
+
 def solve():
     # Read input
     N, M = map(int, input().split())
